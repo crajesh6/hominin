@@ -8,7 +8,7 @@ from hominin import layers
 
 import tensorflow.compat.v2 as tf
 
-from keras.engine.base_layer import Layer
+from tensorflow.python.keras.engine.base_layer import Layer
 
 # isort: off
 from tensorflow.python.util.tf_export import keras_export
